@@ -21,7 +21,7 @@ int main()
     }
 
     for (int i = 0; i < n; i++)
-        printf("%d\n", arr1[i]);
+        printf("%d ", arr1[i]);
     
     return 0;
 }
